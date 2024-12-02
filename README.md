@@ -56,5 +56,5 @@
 
 ## Notes  
 * Ensure that both Ignition Edge and KepserverEX are running before starting visualization.
-* For sample dashboard refer to the "Sample_Ignition_Dashboard".   
+* For sample dashboard refer to the "Sample_Ignition_Dashboard" in Ignition and "KepserverEx" in KepserverEx and import the zip files.   
 * For troubleshooting and deeper configuration, refer to the "Documentation.pdf" and "Flowchart.jpg."
