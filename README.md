@@ -55,5 +55,6 @@
    * Save your project and publish it to make it accessible via a web browser.
 
 ## Notes  
-* Ensure that both Ignition Edge and KepserverEX are running before starting visualization.  
+* Ensure that both Ignition Edge and KepserverEX are running before starting visualization.
+* For sample dashboard refer to the "Sample_Ignition_Dashboard".   
 * For troubleshooting and deeper configuration, refer to the "Documentation.pdf" and "Flowchart.jpg."
